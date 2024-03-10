@@ -5,9 +5,9 @@ For frontend : react
 #Environment setup 
 Install below libraries before running app :
 For backend :
-pip install django
-pip install django-cors-headers
-pip install pandas
+pip install django, 
+pip install django-cors-headers, 
+pip install pandas, 
 
 For Frontend :
 npm install axios
@@ -15,9 +15,9 @@ npm install axios
 #Running 
 To run app, use below commands:
 For backend :
-pip manage.py makemigrations
-pip manage.py migrate 
-pip manage.py runserver
+pip manage.py makemigrations, 
+pip manage.py migrate ,
+pip manage.py runserver,
 
 For Frontend :
 npm start

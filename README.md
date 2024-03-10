@@ -1,6 +1,6 @@
 #Tech Stacks Used :
-For backend : python, django
-For frontend : react
+#For backend : python, django
+#For frontend : react
 
 #Environment setup 
 Install below libraries before running app :

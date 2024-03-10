@@ -2,7 +2,7 @@
 #For backend : python, django
 #For frontend : react
 
-#Environment setup 
+#Environment setup :
 Install these libraries before running app :
 #For backend :
 pip install django, 
